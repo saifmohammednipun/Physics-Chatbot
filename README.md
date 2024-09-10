@@ -58,5 +58,3 @@ Final Report Due.
 Use the CSE499 Capstone Report Template prepared by the Department. You will need to modify sections to match your 299 section details. Additionally, Chapter 7 is not needed for CSE299.
 
 ---
-
-This follows the exact structure and wording you provided.
