@@ -1,0 +1,7 @@
+langchain_core
+langchain_community
+langserve
+streamlit
+python-dotenv
+pypdf
+pypdf2
